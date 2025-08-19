@@ -34,7 +34,7 @@ Shaj is a complete and modern e-commerce web application built with the MERN sta
 - **State Management:** Redux Toolkit (including RTK Query for data fetching)
 - **Routing:** React Router
 - **Styling:** Tailwind CSS
-- **UI Components:** Chart.js for dashboards
+- **UI Components:** Chart.js for dashboard
 
 ## Getting Started
 
