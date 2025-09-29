@@ -12,7 +12,7 @@ Shaj is a complete and modern e-commerce web application built with the MERN sta
 - **Order Management:** Users can view their order history, and admins can manage all customer orders.
 - **User Dashboard:** Allows users to manage their profile, track orders, and view payment history.
 - **Admin Dashboard:**
-  - **Statistics:** Visual charts and stats on sales, users, and orders.
+  - **Statistics:** Visual charts and stats on sales, users,orders.
   - **Product Management:** Add, update, and delete products.
   - **User Management:** View and manage all registered users.
   - **Order Management:** Track and update the status of all orders.
