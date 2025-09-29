@@ -115,7 +115,7 @@ The backend exposes the following REST API endpoints:
 | GET    | `/api/orders/all`         | Get all orders for all users              | Admin        |
 | PATCH  | `/api/orders/:id`         | Update order status                       | Admin        |
 | GET    | `/api/stats/admin`        | Get statistics for the admin dashboard    | Admin        |
-| GET    | `/api/users`              | Get all users                             | Admin        |
+| GET    | `/api/users`              | Get all user                             | Admin        |
 | PATCH  | `/api/users/admin/:id`    | Update a user's role                     | Admin        |
 
 ## Deployment
