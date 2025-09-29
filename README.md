@@ -38,7 +38,7 @@ Shaj is a complete and modern e-commerce web application built with the MERN sta
 
 ## Getting Started
 
-Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+Follow these instruction to get a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
