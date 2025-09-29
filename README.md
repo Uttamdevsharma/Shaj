@@ -120,7 +120,7 @@ The backend exposes the following REST API endpoints:
 
 ## Deployment
 
-Both the frontend and backend are configured for deployment on [Vercel](https://vercel.com/). You can deploy the `Shaj-client` and `Shaj-backend` directories as separate projects.
+Both the frontend and backend are configured for deployment on [Vercel](https://vercel.com/). You can deploy the `Shaj-client` and `Shaj-backend` directories as separate project.
 
 - **Backend:** When deploying the backend, ensure you set the environment variables listed in the `.env` file in your Vercel project settings.
 - **Frontend:** The frontend will connect to the deployed backend. You may need to update the `baseURL` in the frontend utility files to point to your deployed backend URL.
