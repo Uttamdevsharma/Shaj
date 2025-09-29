@@ -112,7 +112,7 @@ The backend exposes the following REST API endpoints:
 | POST   | `/api/orders/create-payment-intent` | Create a payment intent with Stripe | User |
 | POST   | `/api/orders`             | Create a new order                        | User         |
 | GET    | `/api/orders`             | Get all orders (for the logged-in user)   | User         |
-| GET    | `/api/orders/all`         | Get all orders for all users              | Admin        |
+| GET    | `/api/orders/all`         | Get all orders for all user              | Admin        |
 | PATCH  | `/api/orders/:id`         | Update order status                       | Admin        |
 | GET    | `/api/stats/admin`        | Get statistics for the admin dashboard    | Admin        |
 | GET    | `/api/users`              | Get all user                             | Admin        |
