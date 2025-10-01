@@ -87,7 +87,7 @@ Follow these instruction to get a copy of the project up and running on your loc
 
 3.  **Setup Frontend:**
     - Open a new terminal and navigate to the client directory: `cd Shaj-client`
-    - Install dependencies: `npm install`
+    - Install dependencie: `npm install`
     - Start the frontend development server:
       ```bash
       npm run dev
