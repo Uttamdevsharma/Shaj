@@ -9,7 +9,7 @@ Shaj is a complete and modern e-commerce web application built with the MERN sta
 - **Product Catalog:** Browse, search, and filter products. View detailed product pages with descriptions, images, and reviews.
 - **Shopping Cart:** Add products to a cart and view the order summary before checkout.
 - **Payment Integration:** Seamless checkout process powered by Stripe.
-- **Order Management:** Users can view their order history, and admins can manage all customer orders.
+- **Order Management:** Users can view their order history, and admins can manage all customer order.
 - **User Dashboard:** Allows users to manage their profile, track orders, and view payment history.
 - **Admin Dashboard:**
   - **Statistics:** Visual charts and stats on sales, users,orders.
