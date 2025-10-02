@@ -2,7 +2,7 @@
 
 Shaj is a complete and modern e-commerce web application built with the MERN stack (MongoDB, Express.js, React, Node.js). It features a user-friendly client interface for customers and a comprehensive dashboard for administrators to manage the store.
 
-## Feature
+## Features
 
 - **User Authentication:** Secure user registration and login system using JWT.
 - **Role-Based Access Control:** Distinct dashboards and privileges for regular users and administrators.
