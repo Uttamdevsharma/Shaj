@@ -94,7 +94,7 @@ Follow these instruction to get a copy of the project up and running on your loc
       ```
       The application will be available at `http://localhost:5173`.
 
-## API Endpoints
+## API Endpoint
 
 The backend exposes the following REST API endpoints:
 
