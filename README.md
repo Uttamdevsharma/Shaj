@@ -18,7 +18,7 @@ Shaj is a complete and modern e-commerce web application built with the MERN sta
   - **Order Management:** Track and update the status of all orders.
 - **Product Reviews:** Authenticated users can post reviews and ratings for products they have purchased.
 
-## Technology Stack
+## Technology Stac
 
 ### Backend (`Shaj-backend`)
 - **Runtime:** Node.js
